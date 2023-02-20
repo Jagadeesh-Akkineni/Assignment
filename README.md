@@ -1,4 +1,4 @@
-# AlgoBulls Assignment
+# Assignment
 
 # --------INSTRUCTIONS--------
 
